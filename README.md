@@ -3,12 +3,12 @@
 <div align="center">
  
 <ul align="left">
- <li>🎓 Student at Barão do Rio Branco School - Londrina-PR</li>
-         - I'm a senior in High School
-         - I love Math 🔢
+ <li>🎓 Future computer science student</li>
+         - Complete High School
+         - Londrina, PR
  <p></p>
  <li>💻 Technology and programming are enthusiastic</li>
-         - I'm doing online courses to learn computation
+         - I'm learn computation through the internet
 <p></p>
  <li>-💡 Goal: improve the world through technology</li>
 <p></p>
