@@ -3,16 +3,14 @@
 <div align="center">
  
 <ul align="left">
- <li>🎓 Future computer science student</li>
-         - Complete High School
-         - Londrina, PR
+ <li>- Londrina, PR</li>
+         
  <p></p>
- <li>💻 Technology and programming are enthusiastic</li>
-         - I'm learn computation through the internet
+ <li>💻 I love technology</li>
+ 
 <p></p>
  <li>-💡 Goal: improve the world through technology</li>
-<p></p>
- <li>I love reading📚 and sports🏐!
+
 </ul>
 
 <div> 
