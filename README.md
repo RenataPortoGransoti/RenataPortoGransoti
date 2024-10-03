@@ -39,4 +39,6 @@
 	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenataPortoGransoti&show_icons=true&theme=neon)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenataPortoGransoti&show_icons=true&theme=neon)
+![GitHub Streak](https://streak-stats.demolab.com?user=RenataPortoGransoti&theme=dracula&border_radius=5&card_width=460)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenataPortoGransoti&layout=compact)
