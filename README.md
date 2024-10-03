@@ -40,5 +40,5 @@
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenataPortoGransoti&show_icons=true&theme=neon)
-![GitHub Streak](https://streak-stats.demolab.com?user=RenataPortoGransoti&theme=dracula&border_radius=5&card_width=410)
+![GitHub Streak](https://streak-stats.demolab.com?user=RenataPortoGransoti&theme=dracula&border_radius=5&card_width=370)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenataPortoGransoti&layout=compact)
