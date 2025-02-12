@@ -3,13 +3,11 @@
 <div align="center">
  
 <ul align="left">
- <li> Londrina, PR</li>
+ <li> Analista de Sistemas Júnior em Londrina, PR</li>
          
  <p></p>
- <li>💻 I love technology</li>
- 
-<p></p>
- <li>💡 Goal: improve the world through technology</li>
+ <li>💻 Apaixonada por tecnologia</li>
+
 
 </ul>
 
