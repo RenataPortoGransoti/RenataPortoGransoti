@@ -1,12 +1,13 @@
-# Hey, I'm Renata Gransoti
+# 👋 Hi, I'm Renata Gransoti
 
 <div align="center">
  
 <ul align="left">
- <li> Analista de Sistemas Júnior em Londrina, PR</li>
          
- <p></p>
- <li>💻 Apaixonada por tecnologia</li>
+ <li>💻 Junior Systems Analyst | 📍 Londrina, Brazil </li>
+
+<li> Passionate about technology and software development. I work with web and mobile applications, focusing on building efficient solutions and intuitive user experiences.</li>
+
 
 
 </ul>
